@@ -1,32 +1,62 @@
 
-# SmartDoc AI – RAG Chatbot
+# SmartDoc AI – RAG-Based PDF Chatbot
 
-## Project Overview
-SmartDoc AI is a document-based AI chatbot designed to answer user questions using information from an uploaded PDF document.
+An AI-powered document assistant that answers questions using information retrieved from uploaded PDF documents.
 
-The project uses Retrieval-Augmented Generation (RAG) to retrieve relevant information from documents and generate context-based answers.
+## 🚀 Live Application
 
-## Objectives
-- Allow users to upload PDF documents.
-- Ask questions based on the uploaded document.
-- Retrieve relevant information using RAG.
-- Generate answers grounded in the document.
-- Avoid making up answers when information is unavailable.
+[Try SmartDoc AI](https://udify.app/chat/MXFLiUidouSYPebi)
 
-## Technologies Used
+## 📌 Project Overview
+
+SmartDoc AI is a document-based chatbot built using Dify and Retrieval-Augmented Generation (RAG).
+
+Users can interact with PDF documents by asking questions in natural language. The application retrieves relevant information from the document and generates context-based responses.
+
+## 🎯 Key Features
+
+- PDF-based question answering
+- Knowledge Base integration
+- Retrieval-Augmented Generation (RAG)
+- Context-aware responses
+- Multiple question testing
+- Avoids answering questions when information is unavailable in the document
+
+## 🛠️ Technologies Used
+
 - Dify
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models (LLMs)
 - PDF Knowledge Base
+- Workflow Automation
 
-## Expected Features
-- Document-based question answering
-- Context-aware responses
-- Knowledge retrieval
-- Responses restricted to document content
+## 🧪 Testing
 
-## Project Status
-Currently under development.
+The application was tested with different types of questions:
 
-## Author
+- Questions with answers available in the PDF
+- Questions requiring document-based retrieval
+- Questions unrelated to the uploaded document
+- Questions whose answers were not available in the document
+- Questions from different chunks of the document
+
+The application was checked for document-grounded responses.
+
+## 📚 What I Learned
+
+- Fundamentals of Retrieval-Augmented Generation
+- Creating and managing a Knowledge Base
+- Building AI workflows using Dify
+- Connecting document retrieval with LLM responses
+- Testing document-based AI applications
+
+## 📌 Project Status
+
+Completed – Initial working version.
+
+## 👩‍💻 Author
+
 SamiSafi-GenAI
+
+GitHub: https://github.com/SamiSafi-GenAI
+
