@@ -63,19 +63,19 @@ GitHub: https://github.com/SamiSafi-GenAI
 ## 📸 Project Screenshots
 
 ### 1. Workflow Overview
-![Workflow](project-screenshots/01-RAG-workflow.png)
+![Workflow](01-RAG-workflow.png)
 
 ### 2. Knowledge Base Indexing
-![Knowledge Base](project-screenshots/02-knowledgebase.png)
+![Knowledge Base](02-knowledgebase.png)
 
 ### 3. Gemini Configuration
-![Indexing](project-screenshots/03-Gemini-Configuration.png)
+![Indexing](03-Gemini-configuration.png)
 
 ### 4. PDF answer
-![Chatbot](project-screenshots/04-PDF-answer.png)
+![Chatbot](04-PDF-answer.png)
 
 ### 5. RAG Demonstration
-![RAG Demo](project-screenshots/05-retrieved-sources.png)
+![RAG Demo](05-retrieved-sources.png)
 
 ### 6. Out-of-Scope Question Handling
-![Out of Scope](project-screenshots/06-out-of-scope-answer.png)
+![Out of Scope](06-out-of-scope-answer.png)
