@@ -68,10 +68,10 @@ GitHub: https://github.com/SamiSafi-GenAI
 ### 2. Knowledge Base Indexing
 ![Knowledge Base](project-screenshots/02-knowledgebase.png)
 
-### 3. Configuring Gemini Model
+### 3. Gemini Configuration
 ![Indexing](project-screenshots/03-Gemini-Configuration.png)
 
-### 4. Chatbot Interface
+### 4. PDF answer
 ![Chatbot](project-screenshots/04-PDF-answer.png)
 
 ### 5. RAG Demonstration
